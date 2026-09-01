@@ -6,5 +6,5 @@ Built from [workflow-ph2](https://github.com/aruirage/-IDP-workflow2) · source:
 - **Prototype**: [idp-workflow2.vercel.app](https://idp-workflow2.vercel.app/)
 
 ```bash
-cd workflow-ph2 && npm run deploy:prd-site
+npm run deploy:prd-site
 ```
